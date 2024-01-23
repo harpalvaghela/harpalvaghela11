@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.harpalvaghela.com](www.harpalvaghela.com)
 
-- 💬 Ask me about **Productivity,**
+- 💬 Ask me about **Productivity📈,Piano 🎹, Python and AI.**
 
 - 📫 How to reach me **harpalvaghela18@gmail.com**
 
