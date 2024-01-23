@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harpal Vaghela</h1>
 <h3 align="center">Charting new frontiers in Data Analytics and AI, I blend technical knowledge with creative innovation to lead, teach, and inspire in the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/3848914-Programmer-Thomas](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpalvaghela&label=Profile%20views&color=0e75b6&style=flat" alt="harpalvaghela" /> </p>
