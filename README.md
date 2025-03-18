@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.harpalvaghela.com](www.harpalvaghela.com)
 
-- 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL, Python and AI.**
+- 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL and AI.**
 
 - 📫 How to reach me **harpalvaghela18@gmail.com**
 
