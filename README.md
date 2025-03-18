@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/yourwhatsappnumber](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harpalvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpalvaghela" height="30" width="40" /></a>
 <a href="https://fb.com/harpalvaghela1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harpalvaghela1111" height="30" width="40" /></a>
 <a href="https://instagram.com/harpalvaghela11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harpalvaghela11" height="30" width="40" /></a>
